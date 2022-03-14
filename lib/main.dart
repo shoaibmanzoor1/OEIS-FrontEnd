@@ -99,7 +99,8 @@ class Mymainpage extends StatelessWidget {
                                       MaterialPageRoute(builder: (context) => new Studentpage()),
                                     );
                                   }
-                                  else
+                                  els
+                                  els
                                   if(UserNameField=="I") {
                                     Navigator.push(
                                       context,
